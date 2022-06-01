@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkstar_wars"]=self["webpackChunkstar_wars"]||[]).push([[537],{5537:function(a,t,e){e.r(t),e.d(t,{default:function(){return c}});var r=function(){var a=this,t=a.$createElement,e=a._self._c||t;return e("section",[e("h1",[a._v("Nada por aqui!")]),e("router-link",{staticClass:"backToHome",attrs:{tag:"div",to:{name:"Home"}}},[e("p",[a._v("Voltar para Home")])])],1)},s=[],n={},u=n,o=e(1001),l=(0,o.Z)(u,r,s,!1,null,"69e064a2",null),c=l.exports}}]);
+//# sourceMappingURL=537-legacy.cda9ca1e.js.map
